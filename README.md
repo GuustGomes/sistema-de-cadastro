@@ -2,6 +2,8 @@
 
 aprendendo a utilizar o github tanto pelo site quando pelo git terminal
 
+>Status: Em desenvolvimento
+
 ```
 git clone "url do repository"
 git log // para ver o histórico no terminal
